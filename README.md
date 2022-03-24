@@ -9,3 +9,4 @@ Add dislike button
 Add music to profile
 Restrict sensitive content
 
+I added views feature
